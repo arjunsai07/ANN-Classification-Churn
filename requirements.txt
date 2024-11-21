@@ -1,4 +1,7 @@
 tensorflow
-pandas
-sklearn
-pickle
+pandas 
+numpy 
+scikit-learn
+tensorboard
+matplotlib
+streamlit
